@@ -22,3 +22,7 @@ featured-property p {
   padding:800px;
   margin:auto;
 }
+details {
+  display:block;
+  
+}
