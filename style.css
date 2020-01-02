@@ -3,6 +3,14 @@ body {
   height: 100%;
   margin: 0;
 }
-head
-  { margin: auto; }
-   
+head { 
+  margin: auto; 
+}
+img {
+  margin:auto;
+}   
+a {
+  padding:10px
+  color:grey
+  margin:auto;
+}
