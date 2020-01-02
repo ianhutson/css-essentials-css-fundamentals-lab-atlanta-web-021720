@@ -22,7 +22,12 @@ featured-property p {
   padding:800px;
   margin:auto;
 }
-details {
+details + div {
   display:block;
-  
+  float:left;
+}
+div {
+  color:blue
+  margin:auto
+  width:;
 }
