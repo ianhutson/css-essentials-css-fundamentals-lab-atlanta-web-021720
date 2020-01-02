@@ -10,7 +10,12 @@ img {
   margin:auto;
 }   
 a {
-  padding:10px
-  color:#F0F8FF
+  padding:10px;
+  color:#F0F8FF;
   margin:auto;
 }
+figcaption {
+  margin:auto;
+  font-size:9;
+}
+
